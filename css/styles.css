@@ -1,0 +1,27 @@
+body {
+	background-color:#e9ecef;
+}
+
+.jumbotron{
+	background-color:#a6aaaf;
+}
+#contacts-form{
+	background-color:#a6aaaf;
+	padding:1em;
+}
+.col-md-8{
+	background-color:#a6aaaf;
+}
+
+
+#contacts-table { border-collapse: collapse; }
+#contacts-table, #contacts-table th, #contacts-table td { padding: 8px 16px; text-align: left; border: 0px solid #B9BABE; }
+#contacts-table th { font-weight: bold; font-size: 14px; color: #29344B; }
+#contacts-table td { color: #000; }
+#contacts-table tr:nth-child(2n) { background: #e9ecef; }
+
+a { color: #0068D2 !important; cursor: pointer; }
+a:link, a:visited { text-decoration: none; color: red !important; }
+a:hover, a:active { text-decoration: underline; color: red !important; }
+body { font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", sans-serif; }
+
